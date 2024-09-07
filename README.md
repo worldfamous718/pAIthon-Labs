@@ -42,7 +42,7 @@ Our current lab offerings include:
 - Machine Learning Fundamentals
 - Data Visualization
 
-Check the [Labs Directory](labs/) for a full list of available labs.
+Check the [Labs Directory](Labs) for a full list of available labs.
 
 ---
 
