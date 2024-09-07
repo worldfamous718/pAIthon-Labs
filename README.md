@@ -1,6 +1,6 @@
 # 🎯 pAIthon Labs: Master Python3 with Hands-On Fun! 🧪💻
 
-[![pAIthon Labs Logo](Logos-Files/LabLogo.png)](https://github.com/worldfamous718/pAIthon-Labs)
+![pAIthon Labs Logo](https://raw.githubusercontent.com/worldfamous718/pAIthon-Labs/main/Logos-Files/LabLogo.png)
 
 🌟 Welcome to **pAIthon Labs**! Your journey to Python mastery starts here! 🚀
 
