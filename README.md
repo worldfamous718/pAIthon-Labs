@@ -24,7 +24,7 @@ pAIthon Labs is a collection of custom labs and 3torials designed to help beginn
 ## Getting Started
 
 1. Visit the [GitHub Repository](https://github.com/worldfamous718/pAIthon-Labs) to access pAIthon Labs.
-2. Navigate to the [Labs Directory](labs/) to explore available labs.
+2. Navigate to the [Labs Directory](Labs) to explore available labs.
 3. Choose a lab you'd like to start with and follow the instructions provided in that lab's README file.
 4. As you complete labs, keep track of your progress and achievements!
 5. Join our community forums to discuss topics, share solutions, and get help from other learners.
@@ -42,7 +42,7 @@ Our current lab offerings include:
 - Machine Learning Fundamentals
 - Data Visualization
 
-Check the [Labs Directory](labs/) for a full list of available labs.
+Check the [Labs Directory](Labs) for a full list of available labs.
 
 ---
 
