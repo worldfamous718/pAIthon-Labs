@@ -1,6 +1,6 @@
 # pAIthon Labs
 
-[![pAIthon Labs Logo](Logos-Files/LabLogo.png)](https://github.com/worldfamous718/pAIthon-Labs)
+[![pAIthon Labs Logo](Labs/Logos-Files/Lab-Logo.png)](https://github.com/worldfamous718/pAIthon-Labs)
 
 Welcome to **pAIthon Labs**, your go-to resource for mastering basic Python concepts through hands-on learning experiences!
 
