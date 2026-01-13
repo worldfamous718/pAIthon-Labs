@@ -27,7 +27,7 @@ The goal isn’t just to write Python — it’s to **understand it, reason abou
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/worldfamous718/pAIthon-Labs/main/03_Assets/dividers/fundamentals-divider.png">
+  <img src=https://github.com/worldfamous718/pAIthon-Labs/blob/main/03_Assets/logos-files/fundamentals-divider.png>
 </p>
 
 ## 🧠 Fundamentals
