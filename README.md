@@ -30,7 +30,6 @@ The goal isn’t just to write Python — it’s to **understand it, reason abou
   <img src=https://github.com/worldfamous718/pAIthon-Labs/blob/main/03_Assets/logos-files/fundamentals-divider.png>
 </p>
 
-## 🧠 Fundamentals
 
 Everything starts here.
 
@@ -48,7 +47,6 @@ Labs in this section focus on:
   <img src=https://github.com/worldfamous718/pAIthon-Labs/blob/main/03_Assets/logos-files/cybersecurity-divider.png>
 </p>
 
-## 🛡️ Cybersecurity
 
 Python applied to security thinking.
 
@@ -64,7 +62,6 @@ Labs may include:
   <img src=https://github.com/worldfamous718/pAIthon-Labs/blob/main/03_Assets/logos-files/web-scraping-divider.png>
 </p>
 
-## 🌐 Web Scraping
 
 Learning Python by interacting with real data.
 
@@ -77,10 +74,9 @@ Labs may cover:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/worldfamous718/pAIthon-Labs/main/03_Assets/dividers/data-science-divider.png">
+  <img src=https://github.com/worldfamous718/pAIthon-Labs/blob/main/03_Assets/logos-files/data-science-divider-fixed.png>
 </p>
 
-## 📊 Data Science (Lightweight)
 
 This is not heavy ML — it’s about **thinking with data**.
 
@@ -96,7 +92,6 @@ Labs may include:
   <img src=https://github.com/worldfamous718/pAIthon-Labs/blob/main/03_Assets/logos-files/ctf-divider.png>
 </p>
 
-## 🧨 CTF-Style Challenges
 
 For those who like to think like a hacker.
 
