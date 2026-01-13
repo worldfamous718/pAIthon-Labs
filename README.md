@@ -61,7 +61,7 @@ Labs may include:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/worldfamous718/pAIthon-Labs/main/03_Assets/dividers/web-scraping-divider.png">
+  <img src=https://github.com/worldfamous718/pAIthon-Labs/blob/main/03_Assets/logos-files/web-scraping-divider.png>
 </p>
 
 ## 🌐 Web Scraping
