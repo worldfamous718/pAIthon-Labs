@@ -45,7 +45,7 @@ Labs in this section focus on:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/worldfamous718/pAIthon-Labs/main/03_Assets/dividers/cybersecurity-divider.png">
+  <img src=https://github.com/worldfamous718/pAIthon-Labs/blob/main/03_Assets/logos-files/cybersecurity-divider.png>
 </p>
 
 ## 🛡️ Cybersecurity
