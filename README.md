@@ -169,10 +169,11 @@ All contributions should aim to keep labs **clear**, **educational**, and **begi
 
 ---
 
-## 👨‍💻 Author
+## <img src="https://raw.githubusercontent.com/worldfamous718/pAIthon-Labs/main/03_Assets/logos-files/Worlds-avatar.png" height="26" alt="Pythonik World"/>  Author
+![Pythonik World](https://img.shields.io/badge/Pythonik%20World-Creator-0d6efd?logo=https://raw.githubusercontent.com/worldfamous718/pAIthon-Labs/main/03_Assets/logos-files/Worlds-avatar.png&logoColor=white)
 
-**World..redacted**  
-Python • Cybersecurity • Labbing  
+  
+**Python • Cybersecurity • Labbing** 
 
 Hacker at heart.  
 Big on visuals.  
